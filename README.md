@@ -20,5 +20,5 @@ https://adv-r.hadley.nz/functions.html
 https://raps-with-r.dev/fprog.html
 
 This page now also includes a minimal [{targets}](https://books.ropensci.org/targets/) example. {targets} is an amazing package for managing complex and/or long running workflows, helping to 
-ensure reproducibility and data integrity. 
+ensure reproducibility and data integrity. The key relevant file for the targets workflow is located in the "/_targets.R" file.
 
